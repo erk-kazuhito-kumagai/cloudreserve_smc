@@ -1,0 +1,8 @@
+.footer{position: absolute;bottom: 30px;width: 100%;}
+#wrapper {
+    margin-top : 100px
+}
+
+label.error{
+    color:red;
+}

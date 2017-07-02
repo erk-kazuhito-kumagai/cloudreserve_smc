@@ -1,0 +1,4 @@
+<?php
+$moduleMessages = array(
+    
+);
